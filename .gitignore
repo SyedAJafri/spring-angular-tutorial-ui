@@ -1,6 +1,6 @@
 .gradle*
 .idea*
-components*
+bower_components*
 build*
 gradlew
 gradle*
